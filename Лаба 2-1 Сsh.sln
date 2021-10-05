@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Лаба 2-1 Сsh", "Лаба 2-1 Сsh\Лаба 2-1 Сsh.csproj", "{B1D1B5B7-3040-4992-965E-000A6CE17DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба 2-1 СshTests", "Лаба 2-1 СshTests\Лаба 2-1 СshTests.csproj", "{AFB3852A-A51F-4713-A063-4D55645B9505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D1B5B7-3040-4992-965E-000A6CE17DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D1B5B7-3040-4992-965E-000A6CE17DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D1B5B7-3040-4992-965E-000A6CE17DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D1B5B7-3040-4992-965E-000A6CE17DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB3852A-A51F-4713-A063-4D55645B9505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB3852A-A51F-4713-A063-4D55645B9505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB3852A-A51F-4713-A063-4D55645B9505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB3852A-A51F-4713-A063-4D55645B9505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB50A486-C139-44B9-A736-37CE74155216}
+	EndGlobalSection
+EndGlobal
