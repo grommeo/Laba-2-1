@@ -136,7 +136,7 @@ namespace Лаба_2_1_Сsh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(730, 368);
+            this.ClientSize = new System.Drawing.Size(735, 378);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label5);
